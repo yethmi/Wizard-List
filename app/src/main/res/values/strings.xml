@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="game_over">GAME OVER !</string>
+    <string name="score">Your Score</string>
+    <string name="GameName">Wizard\'s List</string>
+    <string name="instructions">Tap on wands to add them to your basket.\nDon\'t click on other objects.\nCollect wands to win.</string>
+</resources>
